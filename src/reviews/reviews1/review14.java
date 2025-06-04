@@ -1,4 +1,4 @@
-package reviews.reviews14;
+package reviews.reviews1;
 
 import java.util.Scanner;
 
